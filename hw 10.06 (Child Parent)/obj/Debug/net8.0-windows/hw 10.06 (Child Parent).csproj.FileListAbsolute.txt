@@ -1,0 +1,18 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\bin\Debug\net8.0-windows\hw 10.06 (Child Parent).exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\bin\Debug\net8.0-windows\hw 10.06 (Child Parent).deps.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\bin\Debug\net8.0-windows\hw 10.06 (Child Parent).runtimeconfig.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\bin\Debug\net8.0-windows\hw 10.06 (Child Parent).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\bin\Debug\net8.0-windows\hw 10.06 (Child Parent).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw_10._06__Child_Parent_.Parent.resources
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).csproj.GenerateResource.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).GeneratedMSBuildEditorConfig.editorconfig
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).AssemblyInfoInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).AssemblyInfo.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\refint\hw 10.06 (Child Parent).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw 10.06 (Child Parent).genruntimeconfig.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\ref\hw 10.06 (Child Parent).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 10.06 (Child Parent)\hw 10.06 (Child Parent)\obj\Debug\net8.0-windows\hw_10._06__Child_Parent_.Child.resources
